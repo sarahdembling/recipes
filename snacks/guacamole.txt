@@ -6,6 +6,7 @@ Ingredients:
 - onions
 - tomatoes 
 - jalapenos
+- garlic
 
 Instructions:
 1. mash avocados
